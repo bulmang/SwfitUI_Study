@@ -6,8 +6,8 @@
 
 ### Categories
 
-- [AsyncImage](#section3)
+- [AsyncImage](#How to load a remote image from the Internet?)
 
 
-### [AsyncImage](#A_Writing_in_Progress)
+### [AsyncImage](#How to load a remote image from the Internet?)
 - [AsyncImage -  How to load a remote image from the Internet?](section3/README.md)
